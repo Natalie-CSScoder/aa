@@ -77,7 +77,6 @@
 .form-1 button[type=submit]:focus {
     outline: none;
 }
-
 .form-1 .submit {
     /* Size and position */
     width: 65px;
